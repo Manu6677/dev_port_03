@@ -46,10 +46,10 @@ export default function Hero() {
           </div>
 
           <p className="text-muted-foreground text-sm sm:text-base">
-            A goal-oriented software developer with experience in building web
-            applications using modern technologies like React, Next.js, and
-            more. Seeking to leverage my technical skills to deliver exceptional
-            user experiences.
+            Results-driven developer skilled in building scalable,
+            high-performance web applications with React and Next.js, delivering
+            efficient, robust systems for large-scale datasets and high user
+            traffic with seamless user experiences.
           </p>
 
           <div className="flex flex-wrap gap-2 sm:gap-3">

@@ -9,21 +9,22 @@ const experiences = [
     company: "Rimes",
     period: "May 2024 - Present",
     responsibilities: [
-      "Worked on a live project called Cura Care (curacare.in)",
-      "Implemented website analytics to track user interactions using PostHog, Google Analytics, and Facebook Pixel",
-      "Developed dynamic slot management system based on bookings",
+      "Developed scalable backend for IRains, an inter-governmental project, managing India’s district-level rainfall data, optimizing structure to reduce load time by 2 seconds.",
+      "Made the filter component reuseable, helped team to increase productivity",
+      "Secured the API’s which was exposed and worked on the securing User credentials by JWT.",
     ],
-    skills: ["Next.js", "ReactJs", "JavaScript", "TailwindCSS"],
+    skills: ["Next.js", "ReactJs", "JavaScript", "TailwindCSS", "Angular"],
   },
   {
     title: "Software Engineer",
     company: "Excellence",
     period: "Oct 2023 – May 2025",
     responsibilities: [
-      "Developed a CMS dashboard for eDeskshaam, enhancing UI/UX and improving user interaction",
-      "Designed and implemented responsive 'Important Links' and 'Events' pages using React.js",
+      "Made the resusable components so application load time decreases by 3 seconds and passed the google web vitals to have better SEO.",
+      "Through reusable components send data from frontend to backend (nodejs) for storing in databse (mySql).",
+      "Single handedly made a frontend for kestra project according to the clients requirements.",
     ],
-    skills: ["React", "JavaScript", "UI/UX", "Responsive Design"],
+    skills: ["Vuejs", "JavaScript", "UI/UX", "Responsive Design"],
   },
 ];
 
